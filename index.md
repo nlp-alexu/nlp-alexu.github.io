@@ -1,123 +1,67 @@
 ---
 layout: default
+title: NLP Course
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Natural Language Processing (NLP) Course
 
-[Link to another page](./another-page.html).
+Welcome to the **Natural Language Processing** course. This course consists of **14 lectures**, **14 sections**, **4 assignments**, and some additional sheets for practice.
 
-There should be whitespace between paragraphs.
+## Course Outline
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Lectures
 
-# Header 1
+1. Introduction to NLP
+2. Text Preprocessing
+3. Tokenization Techniques
+4. Word Embeddings
+5. Named Entity Recognition (NER)
+6. Part-of-Speech Tagging
+7. Syntax and Parsing
+8. Sentiment Analysis
+9. Machine Translation
+10. Text Summarization
+11. Speech Recognition Basics
+12. Dialogue Systems
+13. Information Retrieval
+14. Advanced NLP Topics
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Sections
 
-## Header 2
+1. Introduction & Applications
+2. Regular Expressions in NLP
+3. Bag-of-Words Model
+4. TF-IDF and Feature Extraction
+5. Word2Vec and GloVe
+6. Transformer-based Models
+7. Dependency Parsing
+8. Semantic Role Labeling
+9. Neural Machine Translation
+10. Extractive vs. Abstractive Summarization
+11. ASR and Speech-based NLP
+12. Chatbots & Conversational AI
+13. Question Answering Systems
+14. Ethical Considerations in NLP
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Assignments
 
-### Header 3
+1. [Implementing a Tokenizer](./2020/06/03/first-assignment.html)
+2. Building a Named Entity Recognition Model
+3. Developing a Sentiment Analysis System
+4. Creating a Chatbot using NLP
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Sheets
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **Practice Sheet 1**: Regular Expressions & Tokenization
+- **Practice Sheet 2**: Word Embeddings & Feature Extraction
+- **Practice Sheet 3**: Text Classification Techniques
+- **Practice Sheet 4**: Transformer-based Models
 
-#### Header 4
+## Resources
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- [Course Materials](./materials.html)
+- [Assignments & Submissions](./assignments.html)
+- [Practice Sheets](./sheets.html)
+- [Discussion Forum](./forum.html)
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**Happy Learning!** 🚀
